@@ -17,7 +17,7 @@ To replicate the analysis, you need the following:
 R Environment: Install R or RStudio, which provides an R environment to run the code.
 
 ## Installation/Usage
-1. Install R or RStudio: Download and install R from the official website (https://www.r-project.org/) or RStudio from the official [website](https://www.rstudio.com/products/rstudio/download/).
+1. Install R or RStudio: Download and install R from the official [website](https://www.r-project.org/) or RStudio from the official [website](https://www.rstudio.com/products/rstudio/download/).
 2. Install Required Packages: Open R or RStudio and install the required packages by running the following command:
 ```
 install.packages(c("tidyverse", "modelr", "sf", "tmap", "dplyr"))
