@@ -9,6 +9,7 @@ The following R packages are used in this project:
 * sf
 * tmap
 * dplyr
+
 Make sure these packages are installed in your R environment before running the code.
 
 ## Requirements
